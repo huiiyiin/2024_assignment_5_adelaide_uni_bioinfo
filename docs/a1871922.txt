@@ -1,3 +1,8 @@
+##2024-10-09
+### Changed
+
+- Remove "XXXXXX" from "data/a1871922.txt" to resolve the issue in issue #26
+
 ## [unreleased]
 
 ### Added
